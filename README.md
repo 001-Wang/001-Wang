@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zuoxu Wang 👋
 
-<!--
-**001-Wang/001-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Student at Texas A&M University  
+Research in **3D Vision, Point Clouds, and Uncertainty-aware Learning**
 
-Here are some ideas to get you started:
+## Research Interests
+- Point Cloud Segmentation
+- 3D Reconstruction
+- Gaussian Splatting
+- Robust Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- **GUARD**: Geometry-Uncertainty-Aware Robust Denoiser
+- Point Transformer experiments on ScanNet
+- Noise detection in large-scale point clouds
+
+## Skills
+Python | PyTorch | CUDA | Open3D | ROS | C++
+
+## Links
+Google Scholar:  
+LinkedIn:  
+Email: xxx@tamu.edu
