@@ -8,6 +8,7 @@ Research in **3D Vision, Geometric Learning, and Robust Perception**
 ---
 
 ## Research Areas
+• Vision-Language-Action Model
 • 3D Reconstruction & Gaussian Splatting  
 • Point Cloud Learning  
 • Uncertainty-aware Deep Learning  
