@@ -26,7 +26,9 @@ Ongoing research on future-state reasoning for robotic manipulation. I am explor
 ### PrecisionReach-GS
 A real-to-sim-to-real robot learning pipeline using 3D Gaussian Splatting to create robot-aligned wrist-camera demonstrations from real workspaces for VLA policy adaptation and precise pre-contact reaching.
 
-**Status:** IEEE Transactions on Robot Learning — Under Review  
+**Paper:** [arXiv:2610.35626](https://arxiv.org/abs/2610.35626) · [PDF](https://arxiv.org/pdf/2610.35626)  
+**Project Page:** [PrecisionReach-GS](https://001-wang.github.io/PrecisionReach-GS/)  
+**Code:** [PrecisionReach-GS](https://github.com/001-Wang/PrecisionReach-GS)  
 **Topics:** Robot Learning · VLA · 3DGS · Real-to-Sim-to-Real · Franka FR3
 
 ---
@@ -39,17 +41,17 @@ A scalable multi-view 3D perception pipeline that embeds persistent semantic lab
 
 ---
 
-### GUARD — Geometric Uncertainty-Aware Robust Denoiser
+### GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly
 A point-cloud framework combining geometric representation learning with random Fourier feature Gaussian-process uncertainty for robust denoising and segmentation in a single forward pass.
 
-**Status:** Advanced Engineering Informatics — Under Review  
+**Paper:** [arXiv:2610.09068](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068)  
 **Code:** [GUARD_Point_denoiser](https://github.com/001-Wang/GUARD_Point_denoiser)  
 **Project Page:** [001-wang.github.io/GUARD_Point_denoiser](https://001-wang.github.io/GUARD_Point_denoiser/)
 
 ## Publications & Manuscripts
 
-1. **Zuoxu Wang, Xiao Liang.** *PrecisionReach-GS: Robot-Aligned 3D Gaussian Splatting for Data-Efficient Precise Reaching with Wrist-Camera VLA Policies.* **IEEE Transactions on Robot Learning** — Under Review.
-2. **Zuoxu Wang, Xiao Liang.** *GUARD - Geometric Uncertainty-Aware Robust Denoiser for Point Cloud Segmentation.* **Advanced Engineering Informatics** — Under Review.
+1. **Zuoxu Wang, Xiao Liang.** *Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies.* arXiv, 2026. [Paper](https://arxiv.org/abs/2610.35626) · [PDF](https://arxiv.org/pdf/2610.35626).
+2. **Zuoxu Wang, Xiao Liang.** *GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly.* arXiv, 2026. [Paper](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068).
 3. **Zuoxu Wang, Xiao Liang.** *Component-Aware 3D Damage Localization on Gaussian Splatting for Bridge Inspection.* **Computer-Aided Civil and Infrastructure Engineering** — Under Second-Round Review.
 4. **Hancheng Zhang, Zuoxu Wang, Zhendong Qian, et al.** *Fine-Grained Vehicle Make and Model Recognition Framework Based on Magnetic Fingerprint.* **IEEE Transactions on Intelligent Transportation Systems**, 25(8), 8460–8472, 2024.
 5. **Zuoxu Wang, Hancheng Zhang, Zhendong Qian, et al.** *A Complex Scene Pavement Crack Semantic Segmentation Method Based on Dual-Stream Framework.* **International Journal of Pavement Engineering**, 24(2): 2286461, 2023.
