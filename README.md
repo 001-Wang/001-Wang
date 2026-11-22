@@ -16,10 +16,13 @@ I work at the intersection of **embodied AI, robot manipulation, and geometric p
 
 ## Selected Research
 
-### World Action Model / RVT-2 Future Ranker
-Ongoing research on future-state reasoning for robotic manipulation. I am exploring how learned future representations and expert-alignment scoring can rerank RVT-2 action candidates in RLBench, with the goal of improving action selection beyond a purely reactive policy.
+### GateWAM: Bridging World Prediction and Robot Action
+Developed GateWAM, a confidence-gated world-action framework that combines historical keyframes, current observations, and predicted future stage goals for robotic manipulation. Built on memory-augmented BridgeVLA with a frozen PaliGemma backbone, its Multi-Future Prediction (MFP) module predicts compact latent hypotheses for multiple plausible goals. A reliability-aware gate uses prediction dispersion and policy signals to select between future-conditioned and goal-free actions.
 
-**Topics:** RVT-2 · RLBench · Transformers · Action Ranking · Future Representation
+Achieves 94.67% average success across 18 RLBench tasks, compared with 91.44% without future-goal conditioning. Evaluated on GemBench, COLOSSEUM, and three real-world manipulation tasks with a Franka Research 3 robot.
+
+**Status:** Ongoing research  
+**Topics:** World-Action Models · Multi-Future Prediction · Reliability Gating · BridgeVLA · RLBench · Franka FR3
 
 ---
 
