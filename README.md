@@ -47,14 +47,14 @@ A scalable multi-view 3D perception pipeline that embeds persistent semantic lab
 ### GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly
 A point-cloud framework combining geometric representation learning with random Fourier feature Gaussian-process uncertainty for robust denoising and segmentation in a single forward pass.
 
-**Paper:** [arXiv:2610.09068](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068)  
+**Paper:** [Journal article](https://www.sciencedirect.com/science/article/pii/S1093968726032214) · [arXiv:2610.09068](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068)  
 **Code:** [GUARD_Point_denoiser](https://github.com/001-Wang/GUARD_Point_denoiser)  
 **Project Page:** [001-wang.github.io/GUARD_Point_denoiser](https://001-wang.github.io/GUARD_Point_denoiser/)
 
 ## Publications & Manuscripts
 
 1. **Zuoxu Wang, Xiao Liang.** *Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies.* arXiv, 2026. [Paper](https://arxiv.org/abs/2610.35626) · [PDF](https://arxiv.org/pdf/2610.35626).
-2. **Zuoxu Wang, Xiao Liang.** *GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly.* arXiv, 2026. [Paper](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068).
+2. **Zuoxu Wang, Xiao Liang.** *GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly.* arXiv, 2026. [Journal article](https://www.sciencedirect.com/science/article/pii/S1093968726032214) · [Preprint](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068).
 3. **Zuoxu Wang, Xiao Liang.** *Component-Aware 3D Damage Localization on Gaussian Splatting for Bridge Inspection.* **Computer-Aided Civil and Infrastructure Engineering** — Under Second-Round Review.
 4. **Hancheng Zhang, Zuoxu Wang, Zhendong Qian, et al.** *Fine-Grained Vehicle Make and Model Recognition Framework Based on Magnetic Fingerprint.* **IEEE Transactions on Intelligent Transportation Systems**, 25(8), 8460–8472, 2024.
 5. **Zuoxu Wang, Hancheng Zhang, Zhendong Qian, et al.** *A Complex Scene Pavement Crack Semantic Segmentation Method Based on Dual-Stream Framework.* **International Journal of Pavement Engineering**, 24(2): 2286461, 2023.
