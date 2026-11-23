@@ -29,7 +29,7 @@ Achieves 94.67% average success across 18 RLBench tasks, compared with 91.44% wi
 ### PrecisionReach-GS
 A real-to-sim-to-real robot learning pipeline using 3D Gaussian Splatting to create robot-aligned wrist-camera demonstrations from real workspaces for VLA policy adaptation and precise pre-contact reaching.
 
-**Paper:** [arXiv:2610.35626](https://arxiv.org/abs/2610.35626) · [PDF](https://arxiv.org/pdf/2610.35626)  
+**Paper:** [Paper](https://arxiv.org/abs/2610.35626)  
 **Project Page:** [PrecisionReach-GS](https://001-wang.github.io/PrecisionReach-GS/)  
 **Code:** [PrecisionReach-GS](https://github.com/001-Wang/PrecisionReach-GS)  
 **Topics:** Robot Learning · VLA · 3DGS · Real-to-Sim-to-Real · Franka FR3
@@ -39,6 +39,7 @@ A real-to-sim-to-real robot learning pipeline using 3D Gaussian Splatting to cre
 ### DA3-Initialized Semantic Gaussian Splatting
 A scalable multi-view 3D perception pipeline that embeds persistent semantic labels into Gaussian scenes using sparse mask supervision, projected cross-attention, and cross-view consistency.
 
+**Paper:** [Paper](https://www.sciencedirect.com/science/article/pii/S1093968726032214)  
 **Code & Demo:** [Probability-Gaussians](https://github.com/001-Wang/Probability-Gaussians)  
 **Topics:** DA3 · 3DGS · Multi-View Geometry · Semantic 3D · CUDA
 
@@ -47,15 +48,15 @@ A scalable multi-view 3D perception pipeline that embeds persistent semantic lab
 ### GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly
 A point-cloud framework combining geometric representation learning with random Fourier feature Gaussian-process uncertainty for robust denoising and segmentation in a single forward pass.
 
-**Paper:** [Journal article](https://www.sciencedirect.com/science/article/pii/S1093968726032214) · [arXiv:2610.09068](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068)  
+**Paper:** [Paper](https://arxiv.org/abs/2610.09068)  
 **Code:** [GUARD_Point_denoiser](https://github.com/001-Wang/GUARD_Point_denoiser)  
 **Project Page:** [001-wang.github.io/GUARD_Point_denoiser](https://001-wang.github.io/GUARD_Point_denoiser/)
 
 ## Publications & Manuscripts
 
-1. **Zuoxu Wang, Xiao Liang.** *Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies.* arXiv, 2026. [Paper](https://arxiv.org/abs/2610.35626) · [PDF](https://arxiv.org/pdf/2610.35626).
-2. **Zuoxu Wang, Xiao Liang.** *GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly.* arXiv, 2026. [Journal article](https://www.sciencedirect.com/science/article/pii/S1093968726032214) · [Preprint](https://arxiv.org/abs/2610.09068) · [PDF](https://arxiv.org/pdf/2610.09068).
-3. **Zuoxu Wang, Xiao Liang.** *Component-Aware 3D Damage Localization on Gaussian Splatting for Bridge Inspection.* **Computer-Aided Civil and Infrastructure Engineering** — Under Second-Round Review.
+1. **Zuoxu Wang, Xiao Liang.** *Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies.* arXiv, 2026. [Paper](https://arxiv.org/abs/2610.35626).
+2. **Zuoxu Wang, Xiao Liang.** *GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly.* arXiv, 2026. [Paper](https://arxiv.org/abs/2610.09068).
+3. **Zuoxu Wang, Xiao Liang.** *Component-Aware 3D Damage Localization on Gaussian Splatting for Bridge Inspection.* **Computer-Aided Civil and Infrastructure Engineering**. [Paper](https://www.sciencedirect.com/science/article/pii/S1093968726032214).
 4. **Hancheng Zhang, Zuoxu Wang, Zhendong Qian, et al.** *Fine-Grained Vehicle Make and Model Recognition Framework Based on Magnetic Fingerprint.* **IEEE Transactions on Intelligent Transportation Systems**, 25(8), 8460–8472, 2024.
 5. **Zuoxu Wang, Hancheng Zhang, Zhendong Qian, et al.** *A Complex Scene Pavement Crack Semantic Segmentation Method Based on Dual-Stream Framework.* **International Journal of Pavement Engineering**, 24(2): 2286461, 2023.
 6. **Liangliang Li, Linli Wang, Zuoxu Wang, et al.** *A Novel Medical Image Fusion Approach Based on Nonsubsampled Shearlet Transform.* **Journal of Medical Imaging and Health Informatics**, Vol. 9, 1–12, 2019.
